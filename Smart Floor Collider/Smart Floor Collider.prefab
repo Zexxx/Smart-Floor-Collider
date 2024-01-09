@@ -208,9 +208,9 @@ MonoBehaviour:
             version: 1
             fileID: 0
             guid: 
-            id: 740bbd8e9bf6b1f46a30426461dcac7c|Assets/zex creations/Smart Floor
+            id: 22b57e2fcc9c98b4fb33056a0ae7633f|Assets/zex creations/Smart Floor
               Collider/Controller + Animations/SFC Controller.controller
-            objRef: {fileID: 9100000, guid: 740bbd8e9bf6b1f46a30426461dcac7c, type: 2}
+            objRef: {fileID: 9100000, guid: 22b57e2fcc9c98b4fb33056a0ae7633f, type: 2}
           type: 5
           ResetMePlease2: 0
         menus: []
