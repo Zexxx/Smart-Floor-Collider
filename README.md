@@ -11,6 +11,8 @@ It uses [VRCFury](https://vrcfury.com/) for fast installation.
 1. [Install the latest package]((https://github.com/Zexxx/Smart-Floor-Collider/releases/latest))
 2. [Install VRCFury](https://vrcfury.com/download/)
 3. Drag and drop "Smart Floor Collider" onto the root of your avatar.
+> [!NOTE]
+> You must remove the old floor collider or move it to the "container" game object located under the World Constraint. 
 4. VRFury should handle the rest. Click upload, and you are done.
 
 ## How it works
