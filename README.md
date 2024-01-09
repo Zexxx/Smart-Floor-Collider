@@ -8,7 +8,7 @@ Based on [World Constraint](https://github.com/VRLabs/World-Constraint).
 It uses [VRCFury](https://vrcfury.com/) for fast installation.
 
 ## How to install it on your avatar
-1. [Install the latest package]((https://github.com/Zexxx/Smart-Floor-Collider/releases/latest))
+1. [Install the latest package](https://github.com/Zexxx/Smart-Floor-Collider/releases/latest)
 2. [Install VRCFury](https://vrcfury.com/download/)
 3. Drag and drop "Smart Floor Collider" onto the root of your avatar.
 > [!NOTE]
