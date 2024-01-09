@@ -219,6 +219,8 @@ MonoBehaviour:
         globalParams:
         - Grounded
         - VelocityY
+        - IsLocal
+        - Seated
         allNonsyncedAreGlobal: 0
         ignoreSaved: 0
         toggleParam: 
