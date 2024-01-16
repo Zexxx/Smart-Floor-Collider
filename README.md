@@ -14,7 +14,7 @@ It uses [VRCFury](https://vrcfury.com/) for fast installation.
 > You must remove or move the old floor collider to the "collider" game object under the World Constraint. (If you are reparenting your floor collider under the collider game object, remove the physbone collider component from  "collider". 
 4. VRFury should handle the rest. Click upload, and you are done.
 
-## How it works (locally)
+## How it works (locally) outdated for now
 This works nearly identical to how [world constraints](https://github.com/VRLabs/World-Constraint/blob/main/README.md#how-it-works) normally work with a key few changes for this to work for this.
 
 The first change is that the "World Constraint" only locks on the Y axis. Changing the Freeze Position Axis to only lock the Y axis allows the root parent constraint to follow us still around when it's holding an object in place. 
